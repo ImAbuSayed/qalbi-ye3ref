@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 29, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/qalbi-ye3ref/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Secure Licensing Rights for Qalbi Ye3ref](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
