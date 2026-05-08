@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Qalbi Ye3ref
+
+This log tracks the cryptographic history and versioning for the song **Qalbi Ye3ref** (qalbi-ye3ref).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T05:03:57.176921 | `v1` | `6010023b924276faf0ab7d55aa578f4c1f3737cb0666d2c1672d8dbd3f8a616c` | `1f626ddde137429ac18ca17efbc1ad533d81fe3d9c298021ba5b63de7c963de0` | `2026-05-09_qalbi-ye3ref-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
